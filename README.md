@@ -42,10 +42,10 @@ for other infected devices, in particular the key must not be shared among them.
     <img src="src/ransomwareFacts.png" width="1000">
 </p>
 
-_This tool in regulalry maintained to keep up with security patches and OS updates_
+-------
 
 ## This application is maintained and consistently beats all anti-virus software!
 
 ---------------------------------------------------------------
-##### This software is for permitted remote access to an Andriod device and should not be used illegally.
+##### This software is for researchers and enthusiasts and should not be used illegally.
 ###### Telegram @Hack2Gain
