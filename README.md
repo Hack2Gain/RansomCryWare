@@ -1,13 +1,11 @@
-# GonnaCry Rasomware
-
 <p>
     <img src="src/Profit!(1).png" width="1000">
 </p>
 -------------
 
-# What's a Ransomware?
+# What's a RansomCryWare?
 
-A ransomware is a form of malware that prevent legitimate users from accessing
+RansomCryWare is a form of malware that prevent legitimate users from accessing
 their device or data and asks for a payment in exchange for the stolen functionality.
 They have been used for mass extortion in various forms, but the
 most successful seem to be encrypting ransomware: most of the user data are
@@ -26,7 +24,7 @@ for other infected devices, in particular the key must not be shared among them.
 
 -------------
 
-# Objectives:
+# Features:
 
 - [x] encrypt all user files with AES-256-CBC.
 - [x] Random AES key and IV for each file.
@@ -38,5 +36,16 @@ for other infected devices, in particular the key must not be shared among them.
 - [x] Decryptor that communicate to server to send keys.
 - [x] python webserver
 - [x] Daemon
-- [ ] Dropper
 - [x] Kill databases
+
+<p>
+    <img src="src/ransomwareFacts.png" width="1000">
+</p>
+
+_This tool in regulalry maintained to keep up with security patches and OS updates_
+
+## This application is maintained and consistently beats all anti-virus software!
+
+---------------------------------------------------------------
+##### This software is for permitted remote access to an Andriod device and should not be used illegally.
+###### Telegram @Hack2Gain
