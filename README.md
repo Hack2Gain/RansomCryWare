@@ -1,55 +1,8 @@
 # GonnaCry Rasomware
 
-Original Repository of the GonnaCry Ransomware.
-
-GonnaCry is a linux ransomware that encrypt all user files with strong encryption scheme.
-
-This project is OpenSource, feel free to use, study and/or send pull request.
-
-
-[![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://github.com/tarcisio-marinho/GonnaCry)
-[![Travis branch](https://img.shields.io/cran/l/devtools.svg)](https://github.com/tarcisio-marinho/GonnaCry/blob/master/LICENSE)
-[![Travis branch](https://img.shields.io/badge/made%20with-%3C3-red.svg)](https://github.com/tarcisio-marinho/GonnaCry)
-[![Travis branch](https://img.shields.io/github/stars/tarcisio-marinho/GonnaCry.svg)](https://github.com/tarcisio-marinho/GonnaCry/stargazers)
-    
--------------
-
-**Ransomware Impact on industry**
-
-https://medium.com/@tarcisioma/how-can-a-malware-encrypt-a-company-existence-c7ed584f66b3
-
-**How this ransomware encryption scheme works:**
-
-https://medium.com/@tarcisioma/ransomware-encryption-techniques-696531d07bb9
-
-
-**How this ransomware works:**
-
-https://0x00sec.org/t/how-ransomware-works-and-gonnacry-linux-ransomware/4594
-
-https://medium.com/@tarcisioma/how-ransomware-works-and-gonnacry-linux-ransomware-17f77a549114
-
-
-**Mentions:**
-
-https://www.sentinelone.com/blog/sentinelone-detects-prevents-wsl-abuse/
-
-https://hackingvision.com/2017/07/18/gonnacry-linux-ransomware/
-
-https://www.youtube.com/watch?v=gSfa2L158Uw
-
--------------
-
-# Disclaimer
-
-This Ransomware musn't be used to harm/threat/hurt other person's computer.
-
-It's purpose is only to share knowledge and awareness about Malware/Cryptography/Operating Systems/Programming.
-
-GonnaCry is a academic ransomware made for learning and awareness about security/cryptography.
-
-**Be aware running C/bin/GonnaCry or Python/GonnaCry/main.py Python/GonnaCry/bin/gonnacry in your computer, it may harm.**
-
+<p>
+    <img src="src/Profit!(1).png" width="700">
+</p>
 -------------
 
 # What's a Ransomware?
