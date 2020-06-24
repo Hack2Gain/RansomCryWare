@@ -1,7 +1,7 @@
 # GonnaCry Rasomware
 
 <p>
-    <img src="src/Profit!(1).png" width="700">
+    <img src="src/Profit!(1).png" width="1000">
 </p>
 -------------
 
