@@ -1,7 +1,9 @@
 <p>
     <img src="src/Profit!(1).png" width="1000">
 </p>
--------------
+
+***Code samples reside here on GitHub. Get in Touch to order your personalized tool***
+### Telegram: @Hack2Gain
 
 # What's a RansomCryWare?
 
